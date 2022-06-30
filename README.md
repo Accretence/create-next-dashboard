@@ -5,17 +5,21 @@
 <img src="https://img.shields.io/npm/dw/create-next-dashboard?color=000&style=for-the-badge">
 </p>
 
+## Live Demo
+
+You can find a live demo at [accretence.com](https://accretence.com)!
+
 ## Usage
 
 ```bash
 npx create-next-dashboard my-app
 ```
 
-After installation is complete run `cd my-app` and run `npm run dev`, the app should be running in `localhost:3000`!
+After installation is complete run `cd my-app` and `npm run dev`, the app should be running in `localhost:3000`!
 
 ## About
 
-Simply running this `npx` script should create a Next.js dashboard built using:
+Running the `npx` script above should create a Next.js dashboard built using:
 
 -   [next-dashboard-abstraction](https://github.com/accretence/next-dashboard-abstraction) for abstracting away the page-layouts
 -   [next-dashboard-boilerplate](https://github.com/accretence/next-dashboard-abstraction) for the boilerplate repository the `npx` script clones
