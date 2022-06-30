@@ -1,6 +1,6 @@
 {
     "name": "create-next-dashboard",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Simply run ( npx create-next-dashboard my-app ) to deploy a beautiful Next.js dashboard built using geist-ui! 🥃",
     "bin": "index.js",
     "main": "index.js",
