@@ -15,7 +15,7 @@ const repoName = process.argv[2]
 
 console.log(`Cloning repository...`)
 const checkedOut = runCommand(
-    `git clone --depth 1 --recursive https://github.com/accretence/next-dashboard-boilerplate ${repoName}`
+    `git clone --depth 1 --recursive https://github.com/accretence/next-dashboard ${repoName}`
 )
 if (!checkedOut) process.exit(-1)
 
